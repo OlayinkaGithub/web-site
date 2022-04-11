@@ -242,7 +242,7 @@ footer{
 footer p{
     font-size: 1.3rem;
     color:#000;
-    font-weight: 10px;
+    font-weight: 400;
 }
 
 @media screen and (min-width: 768px) {
